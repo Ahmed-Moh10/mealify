@@ -6,7 +6,7 @@ A modern and fully responsive restaurant landing page built using **HTML & CSS**
 
 ## 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://mealify-sigma-bice.vercel.app/#header
 
 ---
 
